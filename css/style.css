@@ -13,9 +13,8 @@ nav {
     height: auto;
     line-height: 1.5;
     position: relative;
-    width: 100%;
+    width: 100%!important;
     z-index: 4;
-    outline: none!important;
 }
 
 .menu-lista {
@@ -23,4 +22,5 @@ nav {
     font-weight: bold;
     letter-spacing: .1rem;
     text-transform: uppercase;
+    font-size: 13px;
 }
