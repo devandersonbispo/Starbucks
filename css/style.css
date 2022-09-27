@@ -13,11 +13,9 @@ nav {
     height: auto;
     line-height: 1.5;
     position: relative;
+    width: 100%;
     z-index: 4;
-}
-
-.menu {
-    outline: none;
+    outline: none!important;
 }
 
 .menu-lista {
