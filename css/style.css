@@ -24,3 +24,7 @@ nav {
     text-transform: uppercase;
     font-size: 13px;
 }
+
+.logo {
+    width: 51px!important;
+}
